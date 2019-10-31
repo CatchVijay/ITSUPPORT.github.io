@@ -1,4 +1,4 @@
---------------------
+
 DATABASE MANAGEMENT:
 --------------------
 
@@ -27,8 +27,8 @@ Database Memory Tuning
 SQL Tuning
 Operating System Tuning
 
------------------
-Software Testing : 
+
+SOFTWARE TESTING : 
 ------------------
   Test Mobile(iOS and Android) apps.
   Usability review for mobile/web appllications.
