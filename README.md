@@ -1,4 +1,4 @@
-
+--------------------
 DATABASE MANAGEMENT:
 --------------------
 
@@ -7,23 +7,27 @@ We do consultation and remote DBA work and Software testing. Support includes SQ
 The Remote DBA team is comprised of top DBA experts with deep expertise in Microsoft SQL Server, SQL on Azure and AWS. Customers are supported by a dedicated team of senior DBAs with a proven track record of managing and supporting complex database production environments.
 
 SERVICES INCLUDES:
+------------------
 Health Checks
 Performance Tuning
 Backup and Recovery
 Migration Services
 Replication Services
 
-UPGRADE & MIGRATION -
+UPGRADE & MIGRATION:
+--------------------
 Depending on your upgrade size and migration needs, we can scale up our team very quickly with our pool of qualified DBAs.
 DISASTER RECOVERY -
 Loss of Data is very critical to any organization. Our remote DBA support service offerings not only provide strong disaster recovery plans for managing your database with no data loss, but also help advocate best practices to prevent/minimize them.
 
-PERFORMANCE TUNING -
+PERFORMANCE TUNING :
+-------------------
 Our remote DBA support services are high availability and stability. Our remote DBA services will ensure optimum performance of your small, large, OLTP, OLAP environment databases by following well planned systems and procedures required for each of them. Our Tuning expertise includes:
 Database Memory Tuning
 SQL Tuning
 Operating System Tuning
 
+-----------------
 Software Testing : 
 ------------------
   Test Mobile(iOS and Android) apps.
@@ -42,23 +46,28 @@ Software Testing :
   Regression testing for the enhanced functionalities.
   Maintain tracking sheets for assignment and reporting of work assigned/completed to the Project Manager
 
-Test Analyst
+Test Analyst:
+-------------
+
   Understanding the client requirements and project functionalities.
   Preparing, reviewing and executing test cases and ensure that all requirements are covered.
   Performing Functional, Regression and System testing
   Defect reporting and re-testing defects.
 
 Developer:
+----------
   Development and testing based on the requirements/enhancements
   Create Unit Test Plans
   Worked on new change requests and bug fixes
   Preparing the reports according to requirements
 
-Award and Certificate
+Award and Certificate:
+---------------------
   Certified tester in ISTQB form UK Testing Board
   Certified tester of QTP(11.0) form HP.
 
-Application Tested
+Application Tested:
+-------------------
   eCommerce Application(Magneto,WordPress,OpenCart and etc)
   Game Application,
   ERP Application ,
@@ -76,7 +85,8 @@ Application Tested
   HTML and CSS validation
   API 
 
-Testing Type
+Testing Type:
+-------------
   Manual Testing
   Functional Testing
   Usability Testing
@@ -86,7 +96,8 @@ Testing Type
   Database Testing
   Beta Testing
 
-Automation Testing
+Automation Testing:
+-------------------
   Functional Automation Testing:HP-QTP, Selenium and Rational tool
   Mobile Automation:  Monkey Talk and Robotium (Mobile Automation)
   Load Testing:HP Loadrunner,jMeter,Silkperformer
@@ -95,7 +106,8 @@ Automation Testing
   Compatibility Testing: Browserstack
   A/B Testing: Google Analytics, Optimizely
 
-Project Management
+Project Management:
+-------------------
   Test case
   Test Plan
   Use Cases
@@ -105,7 +117,8 @@ Project Management
   User Manual Design 
   Able to manage development and Testing Team
 
-Devices available for testing
+Devices available for testing:
+------------------------------
   Windows XP(32bit,64 bit )-Browser IE(7,8,9) ,Firefox, Chrome,Safari
   Windows 7 (32bit, 64 bit)-Browser IE (9,10,11) ,Firefox Chrome,Safari
   Windows 8(64 bit)-Browser IE(9,10,11),Firefox Chrome,Safari
@@ -113,7 +126,8 @@ Devices available for testing
   Windows 10(64 bit)-Browser Edge,Firefox Chrome,Safari
   MAC OS X 10.10(64 bit) Yosemite –Browser Firefox ,Chrome,Safari
 
-Mobile and Tablet
+Mobile and Tablet:
+------------------
   iPhone 4,5,5S,6S(9.0)
   iPad 2,3(9.0)
   Samsung Galaxy Tab 2, Tab 4
